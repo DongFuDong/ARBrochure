@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 26e53effb8bb178498e16ed4b9273314
+timeCreated: 1569309451
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: bed
+    100002: bed 1
+    100004: bed 2
+    100006: bed005
+    100008: bed007
+    100010: Box005
+    100012: Box006
+    100014: carpet
+    100016: chair001
+    100018: floor-bedroom
+    100020: floor-kitchen
+    100022: floor-sitting room
+    100024: icebox
+    100026: //RootNode
+    100028: Kitchen
+    100030: kitchen
+    100032: Object001
+    100034: Object001 1
+    100036: Object001 2
+    100038: Object002
+    100040: Object003
+    100042: Object004
+    100044: Object007
+    100046: Object008
+    100048: Object009
+    100050: Object010
+    100052: Object012
+    100054: Object013
+    100056: sink
+    100058: sofa
+    100060: TV
+    100062: TV001
+    100064: tvBox
+    100066: wardrobe
+    100068: wardrobe001
+    100070: wardrobe002
+    100072: wuti009
+    100074: wuti010
+    100076: wuti024
+    100078: wuti025
+    100080: wuti063
+    100082: wuti064
+    100084: wuti065
+    100086: wuti066
+    100088: wuti067
+    100090: wuti068
+    100092: wuti082
+    100094: wuti386
+    100096: wuti390
+    400000: bed
+    400002: bed 1
+    400004: bed 2
+    400006: bed005
+    400008: bed007
+    400010: Box005
+    400012: Box006
+    400014: carpet
+    400016: chair001
+    400018: floor-bedroom
+    400020: floor-kitchen
+    400022: floor-sitting room
+    400024: icebox
+    400026: //RootNode
+    400028: Kitchen
+    400030: kitchen
+    400032: Object001
+    400034: Object001 1
+    400036: Object001 2
+    400038: Object002
+    400040: Object003
+    400042: Object004
+    400044: Object007
+    400046: Object008
+    400048: Object009
+    400050: Object010
+    400052: Object012
+    400054: Object013
+    400056: sink
+    400058: sofa
+    400060: TV
+    400062: TV001
+    400064: tvBox
+    400066: wardrobe
+    400068: wardrobe001
+    400070: wardrobe002
+    400072: wuti009
+    400074: wuti010
+    400076: wuti024
+    400078: wuti025
+    400080: wuti063
+    400082: wuti064
+    400084: wuti065
+    400086: wuti066
+    400088: wuti067
+    400090: wuti068
+    400092: wuti082
+    400094: wuti386
+    400096: wuti390
+    2300000: bed
+    2300002: bed 1
+    2300004: bed 2
+    2300006: bed005
+    2300008: bed007
+    2300010: Box005
+    2300012: Box006
+    2300014: carpet
+    2300016: chair001
+    2300018: floor-bedroom
+    2300020: floor-kitchen
+    2300022: floor-sitting room
+    2300024: icebox
+    2300026: Kitchen
+    2300028: kitchen
+    2300030: Object001
+    2300032: Object001 1
+    2300034: Object001 2
+    2300036: Object002
+    2300038: Object003
+    2300040: Object004
+    2300042: Object007
+    2300044: Object008
+    2300046: Object009
+    2300048: Object010
+    2300050: Object012
+    2300052: Object013
+    2300054: sink
+    2300056: sofa
+    2300058: TV
+    2300060: TV001
+    2300062: tvBox
+    2300064: wardrobe
+    2300066: wardrobe001
+    2300068: wardrobe002
+    2300070: wuti009
+    2300072: wuti010
+    2300074: wuti024
+    2300076: wuti025
+    2300078: wuti063
+    2300080: wuti064
+    2300082: wuti065
+    2300084: wuti066
+    2300086: wuti067
+    2300088: wuti068
+    2300090: wuti082
+    2300092: wuti386
+    2300094: wuti390
+    3300000: bed
+    3300002: bed 1
+    3300004: bed 2
+    3300006: bed005
+    3300008: bed007
+    3300010: Box005
+    3300012: Box006
+    3300014: carpet
+    3300016: chair001
+    3300018: floor-bedroom
+    3300020: floor-kitchen
+    3300022: floor-sitting room
+    3300024: icebox
+    3300026: Kitchen
+    3300028: kitchen
+    3300030: Object001
+    3300032: Object001 1
+    3300034: Object001 2
+    3300036: Object002
+    3300038: Object003
+    3300040: Object004
+    3300042: Object007
+    3300044: Object008
+    3300046: Object009
+    3300048: Object010
+    3300050: Object012
+    3300052: Object013
+    3300054: sink
+    3300056: sofa
+    3300058: TV
+    3300060: TV001
+    3300062: tvBox
+    3300064: wardrobe
+    3300066: wardrobe001
+    3300068: wardrobe002
+    3300070: wuti009
+    3300072: wuti010
+    3300074: wuti024
+    3300076: wuti025
+    3300078: wuti063
+    3300080: wuti064
+    3300082: wuti065
+    3300084: wuti066
+    3300086: wuti067
+    3300088: wuti068
+    3300090: wuti082
+    3300092: wuti386
+    3300094: wuti390
+    4300000: bed
+    4300002: wuti386
+    4300004: bed
+    4300006: bed005
+    4300008: bed007
+    4300010: Box005
+    4300012: Box006
+    4300014: carpet
+    4300016: chair001
+    4300018: floor-bedroom
+    4300020: floor-kitchen
+    4300022: floor-sitting room
+    4300024: icebox
+    4300026: kitchen
+    4300028: Kitchen
+    4300030: Object001
+    4300032: Object001
+    4300034: Object001
+    4300036: Object002
+    4300038: Object003
+    4300040: Object004
+    4300042: Object007
+    4300044: Object008
+    4300046: Object009
+    4300048: Object010
+    4300050: Object012
+    4300052: Object013
+    4300054: sink
+    4300056: sofa
+    4300058: TV
+    4300060: TV001
+    4300062: tvBox
+    4300064: wardrobe
+    4300066: wardrobe001
+    4300068: wardrobe002
+    4300070: wuti009
+    4300072: wuti010
+    4300074: wuti024
+    4300076: wuti025
+    4300078: wuti063
+    4300080: wuti064
+    4300082: wuti065
+    4300084: wuti066
+    4300086: wuti067
+    4300088: wuti068
+    4300090: bed
+    4300092: wuti390
+    4300094: wuti082
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

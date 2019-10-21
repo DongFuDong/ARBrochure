@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="E-commerce" size="0.100000 0.056250" />
+    <ImageTarget name="conference" size="0.100000 0.057528" />
+    <ImageTarget name="yazi" size="0.100000 0.100000" />
+    <ImageTarget name="sofa-3" size="0.100000 0.078273" />
+    <ImageTarget name="MNLS" size="0.100000 0.150000" />
+    <ImageTarget name="HX27" size="0.100000 0.100000" />
+    <ImageTarget name="HX26" size="0.100000 0.100000" />
+    <ImageTarget name="game" size="0.100000 0.056221" />
+    <ImageTarget name="Building" size="0.100000 0.074985" />
+    <ImageTarget name="BMY" size="0.100000 0.056250" />
+    <ImageTarget name="04-baidi" size="0.100000 0.103735" />
+    <ImageTarget name="01" size="0.100000 0.062499" />
+  </Tracking>
+</QCARConfig>
